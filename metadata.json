@@ -1,0 +1,49 @@
+{
+  "name": "HaLo Kraken #1993",
+  "symbol": "KRKN",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https%3A%2F%2Farweave.net%2FVs8ZSFqcdp9Xprmtx8N3Q4i7VWKMwIrX1fyAaCL6F18%3Fext%3Dpng",
+  "attributes": [
+ {
+      "trait_type": "Background",
+      "value": "Compass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Tank Top Cloth"
+    },
+    {
+      "trait_type": "Kraken Head",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stitched"
+    },
+    {
+      "trait_type": "Tentacle Item",
+      "value": "Gold Bar"
+    },
+    {
+      "trait_type": "Headdress",
+      "value": "Worm"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
